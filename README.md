@@ -1,4 +1,4 @@
-📊 Retail Sales Analytics Dashboard (SQL + Python + Streamlit)
+##📊 Retail Sales Analytics Dashboard (SQL + Python + Streamlit)
 
 ## 🚀 Project Overview
 
