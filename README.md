@@ -37,7 +37,7 @@ CSV → SQLite Database → SQL Queries → Python Processing → Streamlit Dash
 ```
 sales-analytics-portfolio/
 │
-├── data/                 # Raw dataset
+├── data/                
 ├── sql/                  # SQL schema & queries
 │   ├── schema.sql
 │   ├── advanced_queries.sql
