@@ -46,7 +46,7 @@ sales-analytics-portfolio/
 │   ├── load_data.py
 │   ├── analysis.py
 │
-├── app/                  # Streamlit dashboard
+├── app/                  
 │   └── dashboard.py
 │
 ├── images/               # Output charts/screenshots
