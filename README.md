@@ -42,7 +42,7 @@ sales-analytics-portfolio/
 │   ├── schema.sql
 │   ├── advanced_queries.sql
 │
-├── src/                  # Backend scripts
+├── src/                  
 │   ├── load_data.py
 │   ├── analysis.py
 │
