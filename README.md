@@ -49,7 +49,7 @@ sales-analytics-portfolio/
 ├── app/                  
 │   └── dashboard.py
 │
-├── images/               # Output charts/screenshots
+├── images/              
 ├── requirements.txt
 ├── README.md
 └── .gitignore
