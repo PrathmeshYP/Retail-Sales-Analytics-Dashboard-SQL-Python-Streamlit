@@ -26,7 +26,7 @@ CSV → SQLite Database → SQL Queries → Python Processing → Streamlit Dash
 ## 🛠️ Tech Stack
 
 * Python (Pandas)
-* SQL (SQLite)
+* SQL 
 * Visualization (Matplotlib, Plotly)
 * Dashboard (Streamlit)
 
